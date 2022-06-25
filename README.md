@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @joshwhittick
-- 👀 Soon Biochem MSci grad 
-- 🦠 Research project on computational modeling of enzyme dynamics
-- 🌱 Currently learning Python
-- 🔢 Interested in manipulating data via code
+- 👀 Soon to be BioChem MSci grad 
+- 🦠 4th Yr research project on computational modeling of enzyme dynamics
+- 🌱 Currently teaching myself Python
+- 🔢 Interested in learning how to manipulate data via code
 - 🧬 Looking to work in bioinformatics / data analytics
 
 <!---
