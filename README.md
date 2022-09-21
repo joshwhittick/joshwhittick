@@ -3,7 +3,7 @@
 - 💻 4th Yr research project on computational modeling of enzyme dynamics
 - 🌱 Currently teaching myself Python & SQL
 - 🔢 Interested in computational biology/bioinformatics/data analytics
-- 🧬 Looking for work
+- 🧬 Currently looking for work
 
 <!---
 joshwhittick/joshwhittick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
